@@ -1,0 +1,53 @@
+body {
+	background: #C3DCD0;
+
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+header {
+	margin-top: 70px;
+}
+
+h1 {
+	color: #062107;
+	font-family: fantasy;
+}
+
+h2 {
+	color: #0A5A0E;
+	font-family: fantasy;
+}
+
+p {
+	font-size: 18px;
+	text-align: justify;
+}
+
+.menu_princ {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	color: #11A923;
+	font-family: fantasy;
+	font-size: 20px;
+}
+
+.img_padrao {
+	margin-bottom: 20px;
+	width: 300px;
+}
+
+.img_padrao2 {
+	margin-bottom: 20px;
+	width: 150px;
+}
+
+.logo {
+	width: 70px;
+}
+
+.rodape {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
